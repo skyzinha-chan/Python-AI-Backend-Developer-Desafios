@@ -61,7 +61,7 @@ class Conta:
         excedeu_saldo = valor > saldo
 
         if excedeu_saldo:
-            print("\n@@@ Operação falhou! Você não tem saldo suficiente. @@@")
+            print("\n Operação falhou! Você não tem saldo suficiente. ")
 
         elif valor > 0:
             self._saldo -= valor
@@ -69,7 +69,7 @@ class Conta:
             return True
 
         else:
-            print("\n@@@ Operação falhou! O valor informado é inválido. @@@")
+            print("\n Operação falhou! O valor informado é inválido. ")
 
         return False
 
@@ -78,7 +78,7 @@ class Conta:
             self._saldo += valor
             print("\n=== Depósito realizado com sucesso! ===")
         else:
-            print("\n@@@ Operação falhou! O valor informado é inválido. @@@")
+            print("\n Operação falhou! O valor informado é inválido. ")
             return False
 
         return True
@@ -100,10 +100,10 @@ class ContaCorrente(Conta):
         excedeu_saques = numero_saques >= self.limite_saques
 
         if excedeu_limite:
-            print("\n@@@ Operação falhou! O valor do saque excede o limite. @@@")
+            print("\n Operação falhou! O valor do saque excede o limite. ")
 
         elif excedeu_saques:
-            print("\n@@@ Operação falhou! Número máximo de saques excedido. @@@")
+            print("\n Operação falhou! Número máximo de saques excedido. ")
 
         else:
             return super().sacar(valor)
@@ -342,11 +342,11 @@ def main():
             contas_existentes(contas)
 
         elif opcao == "0":
-            print("\nObrigado por usar nosso sistema bancário, até logo!\n")
+            print("\n Obrigado por usar nosso sistema bancário, até logo!\n")
             break
 
         else:
-            print("\nOperação inválida, por favor selecione novamente a operação desejada.")
+            print("\n Operação inválida, por favor selecione novamente a operação desejada.")
 
 
 main()
