@@ -6,4 +6,4 @@ Desafio desenvolvido como parte de um projeto educacional da [DIO](https://www.d
 
 - [Desafio 2 - README](https://github.com/skyzinha-chan/Python-AI-Backend-Developer-Desafios/blob/main/Desafio_2/README_Desafio-2.md)
 
-- [Desafio 3 - README]()
+- [Desafio 3 - README](https://github.com/skyzinha-chan/Python-AI-Backend-Developer-Desafios/blob/main/Desafio_3/README_Desafio-3.md)
