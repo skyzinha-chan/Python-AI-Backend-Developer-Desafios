@@ -18,15 +18,21 @@ Neste desafio iremos atualizar a implementação do sistema bancário, para arma
 
 ![UML](https://github.com/skyzinha-chan/Python-AI-Backend-Developer-Desafios/blob/main/Desafio_3/Modelando%20o%20Sistema%20Banc%C3%A1rio%20em%20POO%20com%20Python.png)
 
-Após as alterações realizadas seguindo o modelo UML, será implantado na [versão 3]() seguindo a resolução do desafio realizada pelo professor, as seguintes funcionalidades:
+Após as alterações realizadas seguindo o modelo UML, será implantado na [versão 3](https://github.com/skyzinha-chan/Python-AI-Backend-Developer-Desafios/blob/main/Desafio_3/Desafio_3_v3.py) seguindo a resolução do desafio realizada pelo professor, as seguintes funcionalidades:
     - Estabelecer um limite de 10 transações diárias para uma conta não podendo exceder esse limite;
     - Mostrar no extrato, a data e hora de todas as transações.
-- Utilizando: Decorador de log, Gerador de relatórios e Iterador personalizado.
 
-![Iteradores e Geradores desafio pt 1]()
-![Iteradores e Geradores desafio pt 2]()
-![Iteradores e Geradores desafio pt 3]()
-![Iteradores e Geradores desafio pt 4]()
+
+- Utilizando Decorador de log, Gerador de relatórios e Iterador personalizado:
+  
+Não concluidas - **Em construção.**
+![Iteradores e Geradores desafio pt 1](https://github.com/skyzinha-chan/Python-AI-Backend-Developer-Desafios/blob/main/Desafio_3/Iteradores%20e%20Geradores%20desafio%20pt%201.jpeg)
+
+![Iteradores e Geradores desafio pt 2](https://github.com/skyzinha-chan/Python-AI-Backend-Developer-Desafios/blob/main/Desafio_3/Iteradores%20e%20Geradores%20desafio%20pt%202.jpeg)
+
+![Iteradores e Geradores desafio pt 3](https://github.com/skyzinha-chan/Python-AI-Backend-Developer-Desafios/blob/main/Desafio_3/Iteradores%20e%20Geradores%20desafio%20pt%203.jpeg)
+
+![Iteradores e Geradores desafio pt 4](https://github.com/skyzinha-chan/Python-AI-Backend-Developer-Desafios/blob/main/Desafio_3/Iteradores%20e%20Geradores%20desafio%20pt%204.jpeg)
 
 ***
 # <div align="center"> **_Talita Mendonça Marquês_** </div>
