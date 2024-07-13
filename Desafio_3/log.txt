@@ -1,0 +1,39 @@
+[13/07/2024 14:46:36] Função 'novo_usuario' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:46:42] Função 'criar_nova_conta' executada com argumentos (1, [<PessoaFisica: ('tata', '1')>], [<ContaCorrente: ('0001', '1', 'tata')>]) e {}. Retornou None
+[13/07/2024 14:46:49] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:46:54] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:47:55] Função 'depositar' executada com argumentos ([],) e {}. Retornou None
+[13/07/2024 14:48:04] Função 'novo_usuario' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:48:10] Função 'criar_nova_conta' executada com argumentos (1, [<PessoaFisica: ('tata', '1')>], [<ContaCorrente: ('0001', '1', 'tata')>]) e {}. Retornou None
+[13/07/2024 14:48:18] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:48:24] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:48:29] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:48:33] Função 'mostrar_extrato' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:50:54] Função 'mostrar_extrato' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:51:11] Função 'novo_usuario' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:51:14] Função 'criar_nova_conta' executada com argumentos (1, [<PessoaFisica: ('tata', '1')>], [<ContaCorrente: ('0001', '1', 'tata')>]) e {}. Retornou None
+[13/07/2024 14:51:21] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:51:26] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:51:30] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 14:51:35] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:06:03] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:06:08] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:06:11] Função 'mostrar_extrato' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:28:12] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:28:18] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:28:22] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:28:28] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:28:31] Função 'mostrar_extrato' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:29:11] Função 'novo_usuario' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:29:17] Função 'criar_nova_conta' executada com argumentos (1, [<PessoaFisica: ('tata', '1')>], [<ContaCorrente: ('0001', '1', 'tata')>]) e {}. Retornou None
+[13/07/2024 15:29:23] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:29:26] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:29:31] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:29:37] Função 'depositar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:29:43] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:29:49] Função 'mostrar_extrato' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:30:05] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:30:10] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:30:17] Função 'sacar' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 15:30:30] Função 'mostrar_extrato' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None
+[13/07/2024 16:18:07] Função 'mostrar_extrato' executada com argumentos ([<PessoaFisica: ('tata', '1')>],) e {}. Retornou None

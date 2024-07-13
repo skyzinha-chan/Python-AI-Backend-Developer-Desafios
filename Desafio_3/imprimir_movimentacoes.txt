@@ -1,0 +1,273 @@
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 16:19:26]
+
+ Retornou None
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('tata', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'tata')>]) e {}. [13/07/2024 16:19:29]
+
+ Retornou None
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 16:19:34]
+
+ Retornou None
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 16:19:39]
+
+ Retornou None
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 16:19:45]
+
+ Retornou None
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 16:19:50]
+
+ Retornou None
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 16:19:54]
+
+ Retornou None
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 16:20:00]
+
+ Retornou None
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 16:20:04]
+
+ Retornou None
+ 	Função 'mostrar_extrato' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 16:20:09]
+
+ Retornou None
+ 	Função 'depositar' executada, com argumentos ([],) e {}. [13/07/2024 12:30:35]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('TALITA', CPF: '1')>],) e {}. [13/07/2024 12:30:47]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('TALITA', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'TALITA')>]) e {}. [13/07/2024 12:30:50]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('TALITA', CPF: '1')>],) e {}. [13/07/2024 12:30:59]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('TALITA', CPF: '1')>],) e {}. [13/07/2024 12:31:08]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('TALITA', CPF: '1')>],) e {}. [13/07/2024 12:31:12]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('TALITA', CPF: '1')>],) e {}. [13/07/2024 12:31:16]
+Retornou None
+
+ 	Função 'mostrar_extrato' executada, com argumentos ([<PessoaFisica: ('TALITA', CPF: '1')>],) e {}. [13/07/2024 12:31:19]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('Err', CPF: '')>],) e {}. [13/07/2024 12:34:24]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('Err', CPF: '')>, <PessoaFisica: ('TALITA', CPF: '1')>],) e {}. [13/07/2024 12:34:35]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('Err', CPF: '')>, <PessoaFisica: ('TALITA', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'Err')>]) e {}. [13/07/2024 12:34:43]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (2, [<PessoaFisica: ('Err', CPF: '')>, <PessoaFisica: ('TALITA', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'Err')>, <ContaCorrente: ('0001', '2', 'TALITA')>]) e {}. [13/07/2024 12:34:49]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('Err', CPF: '')>, <PessoaFisica: ('TALITA', CPF: '1')>],) e {}. [13/07/2024 12:36:03]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('LEONARDO', CPF: '1')>],) e {}. [13/07/2024 12:46:26]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('LEONARDO', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'LEONARDO')>]) e {}. [13/07/2024 12:46:31]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('LEONARDO', CPF: '1')>],) e {}. [13/07/2024 12:46:35]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('LEONARDO', CPF: '1')>],) e {}. [13/07/2024 12:46:39]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('LEONARDO', CPF: '1')>],) e {}. [13/07/2024 12:46:42]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('LEONARDO', CPF: '1')>],) e {}. [13/07/2024 12:46:45]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('LEONARDO', CPF: '1')>],) e {}. [13/07/2024 12:46:49]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('LEONARDO', CPF: '1')>],) e {}. [13/07/2024 12:46:54]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('LEONARDO', CPF: '1')>],) e {}. [13/07/2024 12:46:58]
+Retornou None
+
+ 	Função 'mostrar_extrato' executada, com argumentos ([<PessoaFisica: ('LEONARDO', CPF: '1')>],) e {}. [13/07/2024 12:47:03]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 12:56:26]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('tata', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'tata')>]) e {}. [13/07/2024 12:56:29]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 12:56:34]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>], 1.0) e {}. [13/07/2024 12:57:16]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('tataa', CPF: '1')>],) e {}. [13/07/2024 12:57:36]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('tataa', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'tataa')>]) e {}. [13/07/2024 12:57:39]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('tataa', CPF: '1')>],) e {}. [13/07/2024 12:57:43]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('tataa', CPF: '1')>],) e {'valor': 200.0}. [13/07/2024 12:57:49]
+Retornou None
+
+ 	Função 'mostrar_extrato' executada, com argumentos ([<PessoaFisica: ('tataa', CPF: '1')>],) e {}. [13/07/2024 12:57:54]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('leoo', CPF: '1')>],) e {}. [13/07/2024 12:59:53]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('leoo', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'leoo')>]) e {}. [13/07/2024 12:59:55]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('leoo', CPF: '1')>],) e {}. [13/07/2024 13:00:01]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('leoo', CPF: '1')>],) e {'valor': 0}. [13/07/2024 13:00:06]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('leoo', CPF: '1')>],) e {}. [13/07/2024 13:00:11]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('leoo', CPF: '1')>],) e {'valor': 0}. [13/07/2024 13:00:17]
+Retornou None
+
+ 	Função 'mostrar_extrato' executada, com argumentos ([<PessoaFisica: ('leoo', CPF: '1')>],) e {}. [13/07/2024 13:00:21]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('leo', CPF: '1')>],) e {}. [13/07/2024 13:03:03]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('leo', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'leo')>]) e {}. [13/07/2024 13:03:05]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('leo', CPF: '1')>],) e {}. [13/07/2024 13:03:09]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 13:09:46]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('tata', CPF: '1')>], [<ContaCorrente: ('0001', '1', 'tata')>]) e {}. [13/07/2024 13:09:48]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 13:09:52]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {'valor': None}. [13/07/2024 13:09:56]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {'valor': None}. [13/07/2024 13:10:03]
+Retornou None
+
+ 	Função 'mostrar_extrato' executada, com argumentos ([<PessoaFisica: ('tata', CPF: '1')>],) e {}. [13/07/2024 13:10:06]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: ('HELLO', CPF: '1')>],) e {}. [13/07/2024 13:18:38]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: ('HELLO', CPF: '1')>], [<ContaCorrente: ('0001', 
+	'1', 
+	'HELLO')>]) e {}. [13/07/2024 13:18:41]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: ('HELLO', CPF: '1')>],) e {}. [13/07/2024 13:18:46]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: ('HELLO', CPF: '1')>],) e {}. [13/07/2024 13:18:51]
+Retornou None
+
+ 	Função 'mostrar_extrato' executada, com argumentos ([<PessoaFisica: ('HELLO', CPF: '1')>],) e {}. [13/07/2024 13:18:54]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos ([<PessoaFisica: 
+Cliente: ('leo', 
+CPF: '1')>],) e {}. [13/07/2024 13:21:24]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos (1, [<PessoaFisica: 
+Cliente: ('leo', 
+CPF: '1')>], [<ContaCorrente: ('0001', 
+	'1', 
+	'leo')>]) e {}. [13/07/2024 13:21:26]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos ([<PessoaFisica: 
+Cliente: ('leo', 
+CPF: '1')>],) e {}. [13/07/2024 13:21:30]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos ([<PessoaFisica: 
+Cliente: ('leo', 
+CPF: '1')>],) e {}. [13/07/2024 13:21:33]
+Retornou None
+
+ 	Função 'mostrar_extrato' executada, com argumentos ([<PessoaFisica: 
+Cliente: ('leo', 
+CPF: '1')>],) e {}. [13/07/2024 13:21:37]
+Retornou None
+
+ 	Função 'novo_usuario' executada, com argumentos 
+		([<PessoaFisica: 
+Cliente: ('Talita', 
+CPF: '1')>],) e 
+		{}. [13/07/2024 13:23:04]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos 
+		(1, [<PessoaFisica: 
+Cliente: ('Talita', 
+CPF: '1')>], [<ContaCorrente: ('0001', 
+	'1', 
+	'Talita')>]) e 
+		{}. [13/07/2024 13:23:07]
+Retornou None
+
+ 	Função 'criar_nova_conta' executada, com argumentos 
+		(2, [<PessoaFisica: 
+Cliente: ('Talita', 
+CPF: '1')>], [<ContaCorrente: ('0001', 
+	'1', 
+	'Talita')>, <ContaCorrente: ('0001', 
+	'2', 
+	'Talita')>]) e 
+		{}. [13/07/2024 13:23:16]
+Retornou None
+
+ 	Função 'depositar' executada, com argumentos 
+		([<PessoaFisica: 
+Cliente: ('Talita', 
+CPF: '1')>],) e 
+		{}. [13/07/2024 13:23:22]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos 
+		([<PessoaFisica: 
+Cliente: ('Talita', 
+CPF: '1')>],) e 
+		{}. [13/07/2024 13:23:29]
+Retornou None
+
+ 	Função 'sacar' executada, com argumentos 
+		([<PessoaFisica: 
+Cliente: ('Talita', 
+CPF: '1')>],) e 
+		{}. [13/07/2024 13:23:34]
+Retornou None
+
+ 	Função 'mostrar_extrato' executada, com argumentos 
+		([<PessoaFisica: 
+Cliente: ('Talita', 
+CPF: '1')>],) e 
+		{}. [13/07/2024 13:23:37]
+Retornou None
+
