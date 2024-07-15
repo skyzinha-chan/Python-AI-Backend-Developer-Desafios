@@ -1,0 +1,3 @@
+from desafio_4_Api.categorias.models import CategoriaModel
+from desafio_4_Api.atleta.models import AtletaModel
+from desafio_4_Api.centro_treinamento.models import CentroTreinamentoModel
